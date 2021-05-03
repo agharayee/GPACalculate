@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GPACalculate/1.0.0": {
+        "runtime": {
+          "GPACalculate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GPACalculate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

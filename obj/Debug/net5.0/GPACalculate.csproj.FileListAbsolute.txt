@@ -1,0 +1,16 @@
+C:\Users\Hp\Desktop\GPACalculate\bin\Debug\net5.0\GPACalculate.exe
+C:\Users\Hp\Desktop\GPACalculate\bin\Debug\net5.0\GPACalculate.deps.json
+C:\Users\Hp\Desktop\GPACalculate\bin\Debug\net5.0\GPACalculate.runtimeconfig.json
+C:\Users\Hp\Desktop\GPACalculate\bin\Debug\net5.0\GPACalculate.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\GPACalculate\bin\Debug\net5.0\GPACalculate.dll
+C:\Users\Hp\Desktop\GPACalculate\bin\Debug\net5.0\ref\GPACalculate.dll
+C:\Users\Hp\Desktop\GPACalculate\bin\Debug\net5.0\GPACalculate.pdb
+C:\Users\Hp\Desktop\GPACalculate\obj\Debug\net5.0\GPACalculate.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\GPACalculate\obj\Debug\net5.0\GPACalculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\GPACalculate\obj\Debug\net5.0\GPACalculate.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\GPACalculate\obj\Debug\net5.0\GPACalculate.AssemblyInfo.cs
+C:\Users\Hp\Desktop\GPACalculate\obj\Debug\net5.0\GPACalculate.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\GPACalculate\obj\Debug\net5.0\GPACalculate.dll
+C:\Users\Hp\Desktop\GPACalculate\obj\Debug\net5.0\ref\GPACalculate.dll
+C:\Users\Hp\Desktop\GPACalculate\obj\Debug\net5.0\GPACalculate.pdb
+C:\Users\Hp\Desktop\GPACalculate\obj\Debug\net5.0\GPACalculate.genruntimeconfig.cache
