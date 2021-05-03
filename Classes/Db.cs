@@ -99,7 +99,7 @@ namespace GPACalculate.Classes
                     totalUnit += course.NumberOfUnits;
 
                 
-                Console.WriteLine($"{course.CourseCode}                    {course.CourseScore}                    {course.NumberOfUnits}");
+                Console.WriteLine($"{course.CourseCode}                        {course.CourseScore}                       {course.NumberOfUnits}                        {letterGrade}");
 
             }
             cgpa = newValue / totalUnit;

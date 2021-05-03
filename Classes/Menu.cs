@@ -33,7 +33,6 @@ namespace GPACalculate.Classes
         public void setCurrentStage(int stage)
         {
             this.currentStage = stage;
-
         }
     }
 }

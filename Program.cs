@@ -90,7 +90,8 @@ namespace GPACalculate
 
                     if (appDb.getAllCourses().Any())
                     {
-                        Console.WriteLine("Course Code          Course Grade         Course Unit");
+                        
+                        Console.WriteLine("Course Code    ||      Course Grade    ||     Course Unit    ||     Course Letter Grade");
                         appDb.CalculateGpa();
                     }
                     else
@@ -100,7 +101,6 @@ namespace GPACalculate
                     }
                     break;
                 }
-
                 menu.setCurrentStage(1);
             }
 
